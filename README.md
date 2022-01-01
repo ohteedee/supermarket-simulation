@@ -1,2 +1,2 @@
 # supermarket-simulation
-simulates customer behaviour inside supermarket
+still an on-going project. come back for details later
